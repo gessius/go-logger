@@ -3,8 +3,8 @@ package logger
 import (
 	"os"
 
-	. "github.com/tendermint/go-common"
-	"github.com/tendermint/log15"
+	. "github.com/intfoundation/go-common"
+	"github.com/intfoundation/log15"
 )
 
 var mainHandler log15.Handler
